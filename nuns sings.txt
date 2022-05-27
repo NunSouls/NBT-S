@@ -1,0 +1,82 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"pink"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:0b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:1b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:2b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:3b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:4b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:5b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:6b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:7b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:8b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:9b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:10b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:11b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:12b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:13b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:14b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:15b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:16b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:17b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:18b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:19b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:20b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:21b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:22b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:23b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:24b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:25b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}},{Count:16b,Damage:0s,Name:"minecraft:oak_sign",Slot:26b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,SignTextColor:-16777216,Text:"Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP
+Â§4NUN ON TOP",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535423010812123",display:{Lore:["(+DATA)"]}}}],RepairCost:0,display:{Name:"Â§4Nun's Â§5Sign's"}}}
